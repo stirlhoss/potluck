@@ -18,7 +18,7 @@
  - To run the tests: `$ rspec test`. You can also run an individual file: `$ rspec test/FILE.rb` or even a single test: `$ rspec test/dish_spec.rb:LINE NUMBER`
 * Complete the activity below.
 * Push your solution to your forked repo
-* Submit a pull request from your repository to this reposity
+* Submit a pull request from your repository to this reposit1y
   * Put your name in your PR!
 
 ## Iteration 1

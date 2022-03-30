@@ -1,4 +1,5 @@
-require '.lib/dish'
+require 'rspec'
+require './lib/dish'
 
 describe 'dish' do
   it 'takes 2 arguments and has a name and a category' do
