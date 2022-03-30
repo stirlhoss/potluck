@@ -18,7 +18,7 @@
  - To run the tests: `$ rspec test`. You can also run an individual file: `$ rspec test/FILE.rb` or even a single test: `$ rspec test/dish_spec.rb:LINE NUMBER`
 * Complete the activity below.
 * Push your solution to your forked repo
-* Submit a pull request from your repository to this repository
+* Submit a pull request from your repository to this reposity
   * Put your name in your PR!
 
 ## Iteration 1
@@ -170,10 +170,7 @@ pry(main)> potluck.add_dish(couscous_salad)
 pry(main)> potluck.add_dish(summer_pizza)
 #=> [#<Dish:0x00007f942191e9b8...>, #<Dish:0x00007f9421d26880...>]
 
-pry(main)> potluck.add_dish(roast_pork)
-#=> [#<Dish:0x00007f942191e9b8...>, #<Dish:0x00007f9421d26880...>, #<Dish:0x00007f9421e26800...>]
-
-pry(main)> potluck.add_dish(cocktail_meatballs)
+pry(main)> potluck.add_dish(roast_porkry(main)> potluck.add_dish(cocktail_meatballs)
 #=> [#<Dish:0x00007f942191e9b8...>, #<Dish:0x00007f9421d26880...>, #<Dish:0x00007f9421e26800...>, #<Dish:0x00007f9421dAA770...>]
 
 pry(main)> potluck.add_dish(candy_salad)
